@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NovaGrService/1.0.0": {
+        "dependencies": {
+          "StoreNet": "1.0.0"
+        },
+        "runtime": {
+          "NovaGrService.dll": {}
+        }
+      },
+      "StoreNet/1.0.0": {
+        "runtime": {
+          "StoreNet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NovaGrService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
